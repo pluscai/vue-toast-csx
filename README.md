@@ -1,4 +1,4 @@
-# vue-toast
+# vue-toast-csx
 
 A mobile toast plugin for vue.
 
